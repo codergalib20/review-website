@@ -1,44 +1,50 @@
 [
   {
-    "image": "https://images.cars.com/cldstatic/wp-content/uploads/volvo-v90-b6-awd-2022-01-black-exterior-profile-wagon-scaled.jpg",
+    "description": "Quickly build your charts with decoupled, reusable React components. Reliable. Built on top of SVG elements with a lightweight dependency on D3 submodules. Quickly build your charts with decoupled, reusable React components. Reliable. Built on top of SVG elements with a lightweight dependency on D3 submodules.",
     "avatar": "https://images.cars.com/cldstatic/wp-content/uploads/mike-hanley-headshot-purple-square.jpg",
     "name": "By Mike Hanley",
     "title": "2022 Volvo V90 Cross Country Review: The Almost-Luxury Anti-SUV",
-    "profession": "Senior Editor"
+    "profession": "Senior Editor",
+    "email": "codergalib20@gmail.com"
   },
   {
-    "image": "https://images.cars.com/cldstatic/wp-content/uploads/hyundai-kona-ev-2022-01-exterior-front-angle-red-suv-scaled.jpg",
+    "description": "Quickly build your charts with decoupled, reusable React components. Reliable. Built on top of SVG elements with a lightweight dependency on D3 submodules. Quickly build your charts with decoupled, reusable React components. Reliable. Built on top of SVG elements with a lightweight dependency on D3 submodules.",
     "avatar": "https://images.cars.com/cldstatic/wp-content/uploads/jennifer-geiger-headshot-purple-square.jpg",
     "name": "By Jennifer Geiger",
     "title": "2022 Hyundai Kona Electric Review: A Likable, Livable EV — if You Can Find It",
-    "profession": "News Editor"
+    "profession": "News Editor",
+    "email": "codergalib20@gmail.com"
   },
   {
-    "image": "https://images.cars.com/cldstatic/wp-content/uploads/acura-rdx-sh-awd-2022-01-blue-exterior-front-angle-suv-scaled.jpg",
+    "description": "Quickly build your charts with decoupled, reusable React components. Reliable. Built on top of SVG elements with a lightweight dependency on D3 submodules. Quickly build your charts with decoupled, reusable React components. Reliable. Built on top of SVG elements with a lightweight dependency on D3 submodules.",
     "avatar": "https://images.cars.com/cldstatic/wp-content/uploads/kelsey-mays-headshot-square-purple.jpg",
     "name": "By Kelsey Mays",
     "title": "2022 Acura RDX Review: Controls Freak",
-    "profession": "Assistant Managing Editor-News"
+    "profession": "Assistant Managing Editor-News",
+    "email": "codergalib20@gmail.com"
   },
   {
-    "image": "https://images.cars.com/cldstatic/wp-content/uploads/lexus-gx460-blackline-2022-01-black-dynamic-exterior-profile-suv-scaled.jpg",
+    "description": "Quickly build your charts with decoupled, reusable React components. Reliable. Built on top of SVG elements with a lightweight dependency on D3 submodules. Quickly build your charts with decoupled, reusable React components. Reliable. Built on top of SVG elements with a lightweight dependency on D3 submodules.",
     "avatar": "https://images.cars.com/cldstatic/wp-content/uploads/brian-normile-headshot-square-purple.jpg",
     "name": "By Brain Normile",
     "title": "2022 Lexus GX 460 Review: Good Bones, But LX Updates Have to Wait",
-    "profession": "News Editor"
+    "profession": "News Editor",
+    "email": "codergalib20@gmail.com"
   },
   {
-    "image": "https://images.cars.com/cldstatic/wp-content/uploads/acura-rdx-sh-awd-2022-01-blue-exterior-front-angle-suv-scaled.jpg",
+    "description": "Quickly build your charts with decoupled, reusable React components. Reliable. Built on top of SVG elements with a lightweight dependency on D3 submodules. Quickly build your charts with decoupled, reusable React components. Reliable. Built on top of SVG elements with a lightweight dependency on D3 submodules.",
     "avatar": "https://images.cars.com/cldstatic/wp-content/uploads/kelsey-mays-headshot-square-purple.jpg",
     "name": "By Kelsey Mays",
     "title": "2022 Acura RDX Review: Controls Freak",
-    "profession": "Assistant Managing Editor-News"
+    "profession": "Assistant Managing Editor-News",
+    "email": "codergalib20@gmail.com"
   },
   {
-    "image": "https://images.cars.com/cldstatic/wp-content/uploads/lexus-gx460-blackline-2022-01-black-dynamic-exterior-profile-suv-scaled.jpg",
+    "description": "Quickly build your charts with decoupled, reusable React components. Reliable. Built on top of SVG elements with a lightweight dependency on D3 submodules. Quickly build your charts with decoupled, reusable React components. Reliable. Built on top of SVG elements with a lightweight dependency on D3 submodules.",
     "avatar": "https://images.cars.com/cldstatic/wp-content/uploads/brian-normile-headshot-square-purple.jpg",
     "name": "By Brain Normile",
     "title": "2022 Lexus GX 460 Review: Good Bones, But LX Updates Have to Wait",
-    "profession": "News Editor"
+    "profession": "News Editor",
+    "email": "codergalib20@gmail.com"
   }
 ]

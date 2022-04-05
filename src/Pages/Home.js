@@ -7,7 +7,7 @@ import Header from '../hooks/Header';
 const Home = () => {
   return (
     <div>
-      <Header />
+      <Header bg="bg-gray-50" bg2="bg-transparent" />
       <Banner />
       <div className='py-10'>
         <Reviews />

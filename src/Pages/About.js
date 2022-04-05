@@ -4,7 +4,7 @@ import Header from '../hooks/Header';
 const About = () => {
   return (
     <div>
-      <Header/>
+      <Header bg="bg-gray-50" bg2="bg-gray-900" />
     </div>
   );
 };

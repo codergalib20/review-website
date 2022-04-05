@@ -2,17 +2,19 @@ import React from 'react';
 
 const SingleReview = ({ review }) => {
 
-  const { avatar, name, title, image, profession } = review;
+  const { avatar, name, email, description, profession } = review;
   return (
-    <div className='shadow-lg hover:shadow-2xl transition-all duration-300 ease-linear  flex justify-between flex-col'>
+    <div style={{
+      borderTopLeftRadius: '10px',
+      borderTopRightRadius: '10px'
+    }} className='shadow-lg hover:shadow-2xl transition-all duration-300 ease-linear  flex justify-between flex-col bg-gray-50'>
       <div style={{
-        height: '250px', borderTopLeftRadius: '10px',
-        borderTopRightRadius: '10px'
-      }} className="overflow-hidden">
-        <img className='w-full h-full' style={{ maxWidth: '100%' }} src={image} alt={title} />
+        minHeight: '150px',
+      }} className="p-3 text-md font-bold text-gray-900">
+        {description}
       </div>
       <div className='p-2'>
-        <h4 className='text-xl font-medium'>{title}</h4>
+        <h4 className='text-xl font-medium'>{email}</h4>
         <div className='w-16 h-1 bg-red-700 mt-3'></div>
       </div>
       <div className='p-2'>
